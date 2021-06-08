@@ -1,4 +1,4 @@
-
+test
 ---
 title: "SOFABoot 介绍"
 aliases: "/sofa-boot/docs/Home"
